@@ -22,11 +22,21 @@ hello world 郁哲昕
 
 柴志刚改
 
+<<<<<<< .merge_file_a13156
 刘一蔚的修改!x    
 xiugai
 
 type2 change
+=======
+刘一蔚的修改!
+
+创建了一个新的分支.
+
+你好
+>>>>>>> .merge_file_a07060
+
 hello,我是分支mnhk
 
 我是czgggggggg，修改你的分支
+type01 change
 
